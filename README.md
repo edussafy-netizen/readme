@@ -57,7 +57,7 @@ AI가 사용자 맞춤형 답변과 일정을 제공하는 서비스입니다.
 ## Stars
 
 
-![GitHub stars](https://img.shields.io/github/stars/Kim C/InSSa?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/edussafy-netizen/InSSa?style=for-the-badge)
 
 
 ## Forks
