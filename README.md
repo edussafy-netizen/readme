@@ -25,65 +25,30 @@ AI가 사용자 맞춤형 답변과 일정을 제공하는 서비스입니다.
 
 # 🛠 기술 스택 뱃지
 
-## Python
+<div align="center">
 
-```md
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-```
+## 🛠️ Tech Stack 🛠️
 
-## Django
+### Techs that I've used at least once
 
-```md
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-```
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 
-## FastAPI
+<br>
 
-```md
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-```
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HyperledgerFabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
 
-## Vue.js
-
-```md
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-```
-
-## TypeScript
-
-```md
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-```
-
-## JavaScript
-
-```md
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-```
-
-## OpenAI
-
-```md
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-```
-
-## GitHub
-
-```md
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-```
-
-## Docker
-
-```md
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-```
-
-## AWS
-
-```md
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-```
+</div>
 
 ---
 
@@ -91,35 +56,35 @@ AI가 사용자 맞춤형 답변과 일정을 제공하는 서비스입니다.
 
 ## Stars
 
-```md
+
 ![GitHub stars](https://img.shields.io/github/stars/유저명/레포명?style=for-the-badge)
-```
+
 
 ## Forks
 
-```md
+
 ![GitHub forks](https://img.shields.io/github/forks/유저명/레포명?style=for-the-badge)
-```
+
 
 ## Issues
 
-```md
+
 ![GitHub issues](https://img.shields.io/github/issues/유저명/레포명?style=for-the-badge)
-```
+
 
 ## License
 
-```md
+
 ![GitHub license](https://img.shields.io/github/license/유저명/레포명?style=for-the-badge)
-```
+
 
 ---
 
 # 👀 방문자 수
 
-```md
+
 ![Visitor](https://komarev.com/ghpvc/?username=GitHub아이디&style=for-the-badge)
-```
+
 
 ---
 
@@ -127,21 +92,21 @@ AI가 사용자 맞춤형 답변과 일정을 제공하는 서비스입니다.
 
 ## 네모 스타일
 
-```text
+
 style=for-the-badge
-```
+
 
 ## 둥근 스타일
 
-```text
+
 style=flat-square
-```
+
 
 ## 기본 스타일
 
-```text
+
 style=flat
-```
+
 
 ## Backend
 
